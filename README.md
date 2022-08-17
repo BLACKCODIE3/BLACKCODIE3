@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BLACKCODIE3
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data visualization and engineering projects
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently on the google data analysis professional course on coursera
+- 💞️ I’m looking to collaborate on data visualization and analysis projects
 - 📫 How to reach me; email @ckells18@gmail.com
 
 <!---
